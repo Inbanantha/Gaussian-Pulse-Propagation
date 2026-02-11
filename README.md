@@ -13,10 +13,17 @@ If the optical source has a spectral width much greater than the signal bandwidt
 
 <img width="1482" height="1120" alt="image" src="https://github.com/user-attachments/assets/83f63473-b1b3-4afc-ad17-9e9850041cae" />
 
-## Output Pulse Broadening
+
+---
+
+### Output Pulse Broadening
 If a Gaussian pulse is input to a linear system with a Gaussian impulse response, the output is also Gaussian with RMS width:
 
 <img width="340" height="102" alt="image" src="https://github.com/user-attachments/assets/c60d35c1-8a0f-4c50-873d-1314ec59a29f" />
+
+
+
+---
 
 ## Calculations
 **System Parameters:**
@@ -54,17 +61,14 @@ Place and connect the following components:
 ## Analysis
 Compare the simulation results with the theoretical calculations and discuss any observed differences.
 
-Results to Record
+
+---
+ Results to Record
 <img width="1448" height="1015" alt="Screenshot 2026-02-05 113211" src="https://github.com/user-attachments/assets/5a7b450e-e6d6-4efc-8c33-791775fdfa8c" />
----
 
-## TABULATION
+![WhatsApp Image 2026-02-11 at 11 01 49 AM](https://github.com/user-attachments/assets/d707d31e-fabf-48b7-a4b0-615429d50265)
 
-![WhatsApp Image 2026-02-11 at 11 01 49 AM](https://github.com/user-attachments/assets/07a27dac-4625-497b-a5cb-c0845ae0423c)
+![WhatsApp Image 2026-02-11 at 11 01 49 AM (1)](https://github.com/user-attachments/assets/525cb9eb-c9f4-49db-8a9c-6651d1b7a4ed)
 
-![WhatsApp Image 2026-02-11 at 11 01 49 AM (1)](https://github.com/user-attachments/assets/cd80b12c-4242-4511-8ba0-58bc7bf454b8)
-
----
-
-## RESULT
-Hence,the results predicted by the linear system model of an optical fiber with the results of simulation
+## Result
+Hence,the results predicted by the linear system model of an optical fiber with the results of simulation.
